@@ -1,5 +1,8 @@
 # Faubourg
 
+This project is mainly a starting point to teach TDD. The walkthru for this is located here: [Faubourg Walkthru](https://github.com/orieken/faubourg-walkthru)
+Each chapter is broken down into 2 branches a start and end, hopefully the walkthru will get you from start to something similar to end
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
