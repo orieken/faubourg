@@ -1,0 +1,6 @@
+<div>
+    <div data-test-id="neighborhood" *ngFor="let neighborhood of neighborhoods$ | async" >
+        <div data-test-id="name">{{ neighborhood.name }}</div>
+        <img data-test-id="image" src="{{ neighborhood.image }}">
+    </div>
+</div>
